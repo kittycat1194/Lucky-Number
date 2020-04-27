@@ -1,1 +1,1 @@
-# Lucky-Number
+The user enters a six-digit number from the keyboard. Write a program that determines whether the entered number is lucky. (A six-digit number is considered lucky if the sum of the first three digits is equal to the sum of the second three digits)
